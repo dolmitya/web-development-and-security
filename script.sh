@@ -14,3 +14,5 @@ if [ -f ~/.bashrc ]; then
 else
   echo "Ошибка: файл ~/.bashrc не найден."
 fi
+
+read -n 1
